@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xy",
+    " z"
+  ],
+  "key": {
+    "x": {
+      "item": "teamod:morning_tea_bag"
+    },
+    "y": {
+      "item": "minecraft:glass_bottle"
+    },
+    "z": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "item": "teamod:morning_tea",
+    "count": 1
+  }
+}

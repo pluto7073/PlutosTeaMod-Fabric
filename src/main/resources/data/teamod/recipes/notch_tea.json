@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xy"
+  ],
+  "key": {
+    "x": {
+      "item": "teamod:tea"
+    },
+    "y": {
+      "item": "minecraft:enchanted_golden_apple"
+    }
+  },
+  "result": {
+    "item": "teamod:notch_tea",
+    "count": 1
+  }
+}

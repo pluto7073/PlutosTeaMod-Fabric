@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xy",
+    "z "
+  ],
+  "key": {
+    "x": {
+      "item": "minecraft:glass_bottle"
+    },
+    "y": {
+      "item": "teamod:healing_tea_bag"
+    },
+    "z": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "item": "teamod:healing_tea",
+    "count": 1
+  }
+}

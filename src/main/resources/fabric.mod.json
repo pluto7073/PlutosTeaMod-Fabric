@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "teamod",
+  "version": "${version}",
+
+  "name": "Pluto's Tea Mod",
+  "description": "This is mod adds Tea to minecraft! There are different kinds of tea, like Healing Tea, Morning Tea, and More.",
+  "authors": [
+    "Pluto7073"
+  ],
+  "contact": {
+    "homepage": "https://pluto7073-main.web.app/",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/teamod/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.pluto7073.teamod.TeaMod"
+    ],
+    "client": [
+      "com.pluto7073.teamod.Client"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}
